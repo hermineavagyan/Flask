@@ -1,0 +1,14 @@
+h1{
+    text-align: center;
+}
+
+.color{
+display: inline-flex;
+align-self: center;
+justify-self: center;
+border: 3px solid black;
+width: 100px;
+height: 100px;
+background-color: var(--color);
+margin: 20px;
+}
